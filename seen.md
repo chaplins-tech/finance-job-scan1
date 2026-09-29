@@ -38,3 +38,8 @@ https://www.startupticker.ch/en/news/japanese-company-supports-swiss-dental-spec
 https://www.startupticker.ch/en/news/flottando-exits-stealth-driven-by-strong-italian-demand-and-pre-seed-funding
 https://www.startupticker.ch/en/news/chf-250-000-surface-pre-seed-round-to-advance-compostable-coating-technology
 https://www.startupticker.ch/en/news/ingredients-innovator-ferm-labs-secures-3m
+
+## 2026-09-29
+https://www.roberthalf.com/ch/en/jobs/lausanne/finance
+https://www.startupticker.ch/en/news/usd-5-4-million-to-advance-prevision-medicine-s-functional-precision-oncology-platform
+https://www.startupticker.ch/en/news/swisscanto-leads-usd-25-million-growth-financing-for-piomic-medical
