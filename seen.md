@@ -43,3 +43,11 @@ https://www.startupticker.ch/en/news/ingredients-innovator-ferm-labs-secures-3m
 https://www.roberthalf.com/ch/en/jobs/lausanne/finance
 https://www.startupticker.ch/en/news/usd-5-4-million-to-advance-prevision-medicine-s-functional-precision-oncology-platform
 https://www.startupticker.ch/en/news/swisscanto-leads-usd-25-million-growth-financing-for-piomic-medical
+
+## 2026-10-01
+https://join.com/companies/cornfeld/13885200-chief-of-staff-cfo-medtech-switzerland
+https://www.startupticker.ch/en/news/tech4trust-season-7-cohort-unveiled-in-geneva
+https://www.startupticker.ch/en/news/chf-2-4m-pre-seed-funding-to-advance-immitrabio-scalable-in-vivo-gene-editing-platform-and-lead-asset
+https://www.startupticker.ch/en/news/aeler-eyes-oncoming-large-scale-roll-out
+https://www.prnewswire.com/news-releases/vaderis-therapeutics-announces-oversubscribed-152-million-series-b-financing-and-initiation-of-the-global-phase-3-heroic-study-of-engasertib-for-hereditary-hemorrhagic-telangiectasia-302845188.html
+https://www.startupticker.ch/en/news/kandou-ai-closes-225m-series-a-round-to-break-memory-bottlenecks-in-ai
