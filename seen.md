@@ -51,3 +51,8 @@ https://www.startupticker.ch/en/news/chf-2-4m-pre-seed-funding-to-advance-immitr
 https://www.startupticker.ch/en/news/aeler-eyes-oncoming-large-scale-roll-out
 https://www.prnewswire.com/news-releases/vaderis-therapeutics-announces-oversubscribed-152-million-series-b-financing-and-initiation-of-the-global-phase-3-heroic-study-of-engasertib-for-hereditary-hemorrhagic-telangiectasia-302845188.html
 https://www.startupticker.ch/en/news/kandou-ai-closes-225m-series-a-round-to-break-memory-bottlenecks-in-ai
+
+## 2026-10-02
+https://wellfound.com/company/gf-accord-ai
+https://www.startupticker.ch/en/news/embodied-ai-launches-with-international-consortium-backing
+https://www.biopole.ch/biopoles-new-investment-programme-offers-start-ups-much-more-than-funding/
