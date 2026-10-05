@@ -56,3 +56,9 @@ https://www.startupticker.ch/en/news/kandou-ai-closes-225m-series-a-round-to-bre
 https://wellfound.com/company/gf-accord-ai
 https://www.startupticker.ch/en/news/embodied-ai-launches-with-international-consortium-backing
 https://www.biopole.ch/biopoles-new-investment-programme-offers-start-ups-much-more-than-funding/
+
+## 2026-10-05
+https://www.themuse.com/jobs/biogen/head-of-finance-international-partner-markets
+https://venturekick.ch/PolaSight-receives-CHF-40000-from-Venture-Kick-to-advance-rapid-tissue-characterization-in-pathology
+https://www.venturekick.ch/NovoViz-receives-CHF-150000-Kick-to-enable-costeffective-innovation-in-quantum-imaging-and-machine-vision-research
+https://tech.eu/2026/09/29/cotierra-raises-3m-to-scale-decentralised-biochar-across-tropical-agriculture/
