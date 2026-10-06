@@ -62,3 +62,7 @@ https://www.themuse.com/jobs/biogen/head-of-finance-international-partner-market
 https://venturekick.ch/PolaSight-receives-CHF-40000-from-Venture-Kick-to-advance-rapid-tissue-characterization-in-pathology
 https://www.venturekick.ch/NovoViz-receives-CHF-150000-Kick-to-enable-costeffective-innovation-in-quantum-imaging-and-machine-vision-research
 https://tech.eu/2026/09/29/cotierra-raises-3m-to-scale-decentralised-biochar-across-tropical-agriculture/
+
+## 2026-10-06
+https://careers.ing.com/en/job_location/petit-lancy/chief-financial-officer-cfo-switzerland/3121/25077109376/18174
+https://topjobs.ch/de/job/14499988
