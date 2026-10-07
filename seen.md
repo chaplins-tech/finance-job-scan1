@@ -66,3 +66,9 @@ https://tech.eu/2026/09/29/cotierra-raises-3m-to-scale-decentralised-biochar-acr
 ## 2026-10-06
 https://careers.ing.com/en/job_location/petit-lancy/chief-financial-officer-cfo-switzerland/3121/25077109376/18174
 https://topjobs.ch/de/job/14499988
+
+## 2026-10-07
+https://zerogtalent.com/frontier-jobs/corintis/cfo-4365642411
+https://jobs.generalcatalyst.com/companies/sonarsource/jobs/81012518-finance-director-gtm-business-support
+https://www.builtinboston.com/job/finance-director-fp/9967250
+https://www.six-group.com/en/newsroom/media-releases/2026/20261001-infomaniak-listing.html
