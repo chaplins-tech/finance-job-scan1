@@ -72,3 +72,9 @@ https://zerogtalent.com/frontier-jobs/corintis/cfo-4365642411
 https://jobs.generalcatalyst.com/companies/sonarsource/jobs/81012518-finance-director-gtm-business-support
 https://www.builtinboston.com/job/finance-director-fp/9967250
 https://www.six-group.com/en/newsroom/media-releases/2026/20261001-infomaniak-listing.html
+
+## 2026-10-09
+https://seedtable.com/jobs/99248
+https://bioalps.org/?p=37914
+https://bioalps.org/?p=37904
+https://www.moneycab.com/startups/venture-leaders-biotech-2026-10-innovative-biotech-startups-fuer-die-boston-roadshow-ausgewaehlt/
