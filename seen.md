@@ -78,3 +78,6 @@ https://seedtable.com/jobs/99248
 https://bioalps.org/?p=37914
 https://bioalps.org/?p=37904
 https://www.moneycab.com/startups/venture-leaders-biotech-2026-10-innovative-biotech-startups-fuer-die-boston-roadshow-ausgewaehlt/
+
+## 2026-10-13
+https://live.deutsche-boerse.com/news/SIG-Group-AG-Ann-Kristin-Erkens-appointed-new-CEO-of-SIG-762707c9-88e6-4856-a867-542d85442b47
