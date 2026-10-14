@@ -81,3 +81,8 @@ https://www.moneycab.com/startups/venture-leaders-biotech-2026-10-innovative-bio
 
 ## 2026-10-13
 https://live.deutsche-boerse.com/news/SIG-Group-AG-Ann-Kristin-Erkens-appointed-new-CEO-of-SIG-762707c9-88e6-4856-a867-542d85442b47
+
+## 2026-10-14
+https://www.jobup.ch/en/jobs/detail/8cccece8-f4c9-4645-ad0c-b465aced0deb
+https://www.jobup.ch/en/jobs/detail/aec943a2-8ee2-477d-a92f-dcb09e4daadf
+https://www.jobup.ch/en/jobs/detail/c44d13d1-ee9a-414e-baea-ae18c453c2b5
