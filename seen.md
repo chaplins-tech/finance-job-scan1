@@ -86,3 +86,10 @@ https://live.deutsche-boerse.com/news/SIG-Group-AG-Ann-Kristin-Erkens-appointed-
 https://www.jobup.ch/en/jobs/detail/8cccece8-f4c9-4645-ad0c-b465aced0deb
 https://www.jobup.ch/en/jobs/detail/aec943a2-8ee2-477d-a92f-dcb09e4daadf
 https://www.jobup.ch/en/jobs/detail/c44d13d1-ee9a-414e-baea-ae18c453c2b5
+
+## 2026-10-15
+https://jobup.ch/en/jobs/detail/33aa276d-3d14-45d5-9b11-d91965177b3e
+https://www.startupresearcher.com/news/unisieve-raises-usd9-million-series-a-to-scale-gas-separation-membranes
+https://www.startupticker.ch/en/news/ai-startup-visorway-raises-pre-seed-funding
+https://www.thesaasnews.com/news/scait-raises-high-six-figure-pre-seed/
+https://www.komaxgroup.com/media-releases/cfo-christian-maeder-to-leave-the-komax-group
