@@ -93,3 +93,9 @@ https://www.startupresearcher.com/news/unisieve-raises-usd9-million-series-a-to-
 https://www.startupticker.ch/en/news/ai-startup-visorway-raises-pre-seed-funding
 https://www.thesaasnews.com/news/scait-raises-high-six-figure-pre-seed/
 https://www.komaxgroup.com/media-releases/cfo-christian-maeder-to-leave-the-komax-group
+
+## 2026-10-16
+https://www.jobup.ch/en/jobs/detail/ce9aee72-62af-4edc-9faf-e5c348063275/
+https://www.startupresearcher.com/news/klarent-raises-usd8-million-seed-round-to-expand-in-the-us
+https://tech.eu/2026/10/05/namespace-raises-42m-ssries-b-seven-months-after-series-a/
+https://www.thesaasnews.com/news/besso-raises-4m-seed/
