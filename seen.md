@@ -102,3 +102,9 @@ https://www.thesaasnews.com/news/besso-raises-4m-seed/
 
 ## 2026-10-20
 (no new items — quiet run, WebFetch unavailable, nothing new cleared seniority/region/freshness bar)
+
+## 2026-10-21
+https://endpoints.news/nouscom-raises-135m-in-series-d-round-for-lead-cancer-vaccine
+https://techfundingnews.com/swiss-biotech-nouscom-secures-135m-pushing-cancer-prevention-vaccine-forward/
+https://bioalps.org/?p=38080
+https://venturekick.ch/Baio-receives-CHF-40000-from-Venture-Kick-to-scale-AIdriven-molecular-design-platform
