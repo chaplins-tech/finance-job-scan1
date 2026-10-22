@@ -108,3 +108,6 @@ https://endpoints.news/nouscom-raises-135m-in-series-d-round-for-lead-cancer-vac
 https://techfundingnews.com/swiss-biotech-nouscom-secures-135m-pushing-cancer-prevention-vaccine-forward/
 https://bioalps.org/?p=38080
 https://venturekick.ch/Baio-receives-CHF-40000-from-Venture-Kick-to-scale-AIdriven-molecular-design-platform
+
+## 2026-10-22
+(no new items — quiet run, WebFetch unavailable all run (DNS failures on every domain), nothing new cleared seniority/region/freshness bar)
