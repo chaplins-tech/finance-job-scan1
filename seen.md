@@ -114,3 +114,6 @@ https://venturekick.ch/Baio-receives-CHF-40000-from-Venture-Kick-to-scale-AIdriv
 
 ## 2026-10-23
 (no new items — quiet run, WebFetch unavailable all run (DNS failures on every domain), nothing new cleared seniority/region/freshness bar)
+
+## 2026-10-26
+(no new items — quiet run. CONFIRMED CAUSE: egress proxy actively rejects connections to jobup.ch and startupticker.ch for this session ("host not allowed"), so WebFetch cannot reach core sources. WebSearch-only coverage surfaced nothing new/fresh that wasn't already logged above. User notified to fix environment network allowlist.)
