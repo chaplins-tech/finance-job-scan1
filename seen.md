@@ -120,3 +120,6 @@ https://venturekick.ch/Baio-receives-CHF-40000-from-Venture-Kick-to-scale-AIdriv
 
 ## 2026-10-27
 (no new items — quiet run. CONFIRMED: egress proxy still actively rejects jobup.ch, startupticker.ch, michaelpage.ch for this session ("connect_rejected"/403), same as 10-22, 10-23, 10-26. WebSearch-only coverage surfaced nothing new/fresh that wasn't already logged above. User notified again to fix environment network allowlist.)
+
+## 2026-10-28
+(no new items — quiet run, 7th in this streak. CONFIRMED: WebFetch DNS resolution (ENOTFOUND) blocked for jobup.ch, michaelpage.ch, zerogtalent.com, ggba.swiss, venturelab.swiss this session. WebSearch-only coverage surfaced only items already logged above (Corintis CFO, Michael Page ref jn-072026-7062316, Finders SA Head of Finance) or stale 2025 postings. User notified again — environment network allowlist still not fixed after a full week.)
