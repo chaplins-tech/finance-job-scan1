@@ -123,3 +123,6 @@ https://venturekick.ch/Baio-receives-CHF-40000-from-Venture-Kick-to-scale-AIdriv
 
 ## 2026-10-28
 (no new items — quiet run, 7th in this streak. CONFIRMED: WebFetch DNS resolution (ENOTFOUND) blocked for jobup.ch, michaelpage.ch, zerogtalent.com, ggba.swiss, venturelab.swiss this session. WebSearch-only coverage surfaced only items already logged above (Corintis CFO, Michael Page ref jn-072026-7062316, Finders SA Head of Finance) or stale 2025 postings. User notified again — environment network allowlist still not fixed after a full week.)
+
+## 2026-10-29
+(no new items — quiet run, 8th in this streak. CONFIRMED: WebFetch DNS resolution (ENOTFOUND) still blocked for jobup.ch, michaelpage.ch, jobs.ch, startupticker.ch, linkedin.com this session. WebSearch-only coverage surfaced only items already logged above (Finders SA Head of Finance, Namespace Labs) or stale postings (Pictet Head of Finance dated Feb 2026). Not re-notifying since status is unchanged from the 10-26/10-27/10-28 reports already sent.)
