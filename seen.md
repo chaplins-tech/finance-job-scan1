@@ -126,3 +126,8 @@ https://venturekick.ch/Baio-receives-CHF-40000-from-Venture-Kick-to-scale-AIdriv
 
 ## 2026-10-29
 (no new items — quiet run, 8th in this streak. CONFIRMED: WebFetch DNS resolution (ENOTFOUND) still blocked for jobup.ch, michaelpage.ch, jobs.ch, startupticker.ch, linkedin.com this session. WebSearch-only coverage surfaced only items already logged above (Finders SA Head of Finance, Namespace Labs) or stale postings (Pictet Head of Finance dated Feb 2026). Not re-notifying since status is unchanged from the 10-26/10-27/10-28 reports already sent.)
+
+## 2026-10-30
+(no new job openings — quiet run, 9th day of WebFetch ENOTFOUND blocking jobup.ch and giansbetta.substack.com. Two new funding items logged below.)
+https://tech.eu/2026/10/22/mistral-boss-and-yann-lecun-back-swiss-robotics-startup-enact-in-30m-pre-seed-round
+https://app.fundz.net/fundings/sonexos-sa-funding-round-series-a-a41a57
