@@ -131,3 +131,6 @@ https://venturekick.ch/Baio-receives-CHF-40000-from-Venture-Kick-to-scale-AIdriv
 (no new job openings — quiet run, 9th day of WebFetch ENOTFOUND blocking jobup.ch and giansbetta.substack.com. Two new funding items logged below.)
 https://tech.eu/2026/10/22/mistral-boss-and-yann-lecun-back-swiss-robotics-startup-enact-in-30m-pre-seed-round
 https://app.fundz.net/fundings/sonexos-sa-funding-round-series-a-a41a57
+
+## 2026-11-02
+(no new items — quiet run. CONFIRMED: WebFetch ENOTFOUND still blocks jobup.ch, startupticker.ch, michaelpage.ch, bioalps.org, venturekick.ch, fongit.ch for this session, unchanged since 10-20. WebSearch-only coverage surfaced only items already logged above or stale/off-region postings (Zürich, Zug, Valais, Jura; Jan–Aug 2026 dates). No digest produced 10-31/11-01. Not re-notifying user — same root cause already flagged 10-26/10-27/10-28, status unchanged.)
