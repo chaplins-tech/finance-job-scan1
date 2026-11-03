@@ -134,3 +134,6 @@ https://app.fundz.net/fundings/sonexos-sa-funding-round-series-a-a41a57
 
 ## 2026-11-02
 (no new items — quiet run. CONFIRMED: WebFetch ENOTFOUND still blocks jobup.ch, startupticker.ch, michaelpage.ch, bioalps.org, venturekick.ch, fongit.ch for this session, unchanged since 10-20. WebSearch-only coverage surfaced only items already logged above or stale/off-region postings (Zürich, Zug, Valais, Jura; Jan–Aug 2026 dates). No digest produced 10-31/11-01. Not re-notifying user — same root cause already flagged 10-26/10-27/10-28, status unchanged.)
+
+## 2026-11-03
+(no new items — quiet run, now ~2 weeks into this streak. CONFIRMED: WebFetch ENOTFOUND still blocks jobup.ch, startupticker.ch, michaelpage.ch, and (newly tested) tech.eu for this session, unchanged since 10-20. WebSearch-only coverage surfaced only items already logged above (Michael Page jn-072026-7062316, Corintis CFO, ING CFO Petit-Lancy, Robert Half Lausanne, NovaGo, DataHow) or stale/off-region postings (Pictet & Finders Head of Finance Feb-Aug 2026, Robert Walters CFO Zürich, Ahead Health Zurich, Rivia Zurich, SWISSto12 Jan 2026). Not re-notifying user — same root cause already flagged 10-26/10-27/10-28, status unchanged.)
