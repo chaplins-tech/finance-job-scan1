@@ -1,6 +1,12 @@
 # Seen items log — daily-finance-job-scan
 # One URL per line. Keep ~300 most recent.
 
+## 2026-11-09
+https://www.optioncarriere.ch/jobad/ch330b1f7ef76ecc14ec18c6ab21cf6765
+https://www.citybiz.co/article/922439/distalmotion-closes-up-to-70-million-financing-with-perceptive-advisors-to-fuel-u-s-asc-growth/
+https://tech.eu/2026/10/26/venture-kick-backs-chd-with-eur160k-to-advance-remote-pregnancy-monitoring/
+https://www.vermoegenszentrum.ch/en/stock-exchange-and-markets/news/galderma-cfo-luigi-la-corte-leave-new-opportunity
+
 ## 2026-09-10
 https://www.pageexecutive.com/job-detail/directeurice-administratifve-financiere/ref/jn-072026-7062316
 https://www.jobup.ch/en/jobs/detail/c5ed9adf-181c-4c3e-b654-c37171906863/
