@@ -1,6 +1,13 @@
 # Seen items log — daily-finance-job-scan
 # One URL per line. Keep ~300 most recent.
 
+## 2026-11-10
+https://dealroom.co/news/169918-undae-science-raises-1-41m-seed-to-finish-industrialising-sleep-platform/
+https://dealroom.co/news/169198-avaisor-raises-596-000-pre-seed-for-surgical-knowledge-platform/
+https://tech.eu/2026/10/27/swiss-startup-atlas-bio-secures-125m-to-tackle-drug-developments-70-failure-rate-and-move-beyond-animal-testing/
+https://www.uniindia.com/business-wire-india/galderma-announces-proposed-board-appointments-and-chief-financial-officer-transition-102540/234132
+https://www.cash.ch/news/komax-andreas-weibel-ubernimmt-cfo-funktion-interimistisch-916763
+
 ## 2026-11-09
 https://www.optioncarriere.ch/jobad/ch330b1f7ef76ecc14ec18c6ab21cf6765
 https://www.citybiz.co/article/922439/distalmotion-closes-up-to-70-million-financing-with-perceptive-advisors-to-fuel-u-s-asc-growth/
