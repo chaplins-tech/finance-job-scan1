@@ -1,6 +1,9 @@
 # Seen items log — daily-finance-job-scan
 # One URL per line. Keep ~300 most recent.
 
+## 2026-11-11
+(no new items -- quiet run. WebFetch still ENOTFOUND on jobup.ch and core sources, ~3.5 weeks into block. WebSearch-only coverage surfaced only items already logged above (Galderma CFO transition, Komax interim CFO, Corintis CFO, Michael Page ref jn-072026-7062316) or undated/conflicting-figure leads (Medyria, DigeHealth) that could not be confirmed as posted in the last 7 days. Not re-notifying user -- same root cause already flagged repeatedly, status unchanged.)
+
 ## 2026-11-10
 https://dealroom.co/news/169918-undae-science-raises-1-41m-seed-to-finish-industrialising-sleep-platform/
 https://dealroom.co/news/169198-avaisor-raises-596-000-pre-seed-for-surgical-knowledge-platform/
