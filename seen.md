@@ -1,6 +1,9 @@
 # Seen items log — daily-finance-job-scan
 # One URL per line. Keep ~300 most recent.
 
+## 2026-11-12
+(no new items -- quiet run. WebFetch still ENOTFOUND on jobup.ch and core sources, ~18 days / 2.5 weeks into block. WebSearch-only coverage surfaced only items already logged above (Galderma CFO transition, Komax interim CFO, Distalmotion) or leads that did not survive verification: a reported "$105M Neurosterix Series B" (actually the stale 2024 $63M round) and a Qaptis CFO appointment sourced from an undated startupticker.ch roundup that bundles 2024-era appointments. Not re-notifying user -- same root cause already flagged repeatedly, status unchanged.)
+
 ## 2026-11-11
 (no new items -- quiet run. WebFetch still ENOTFOUND on jobup.ch and core sources, ~3.5 weeks into block. WebSearch-only coverage surfaced only items already logged above (Galderma CFO transition, Komax interim CFO, Corintis CFO, Michael Page ref jn-072026-7062316) or undated/conflicting-figure leads (Medyria, DigeHealth) that could not be confirmed as posted in the last 7 days. Not re-notifying user -- same root cause already flagged repeatedly, status unchanged.)
 
