@@ -1,6 +1,19 @@
 # Seen items log — daily-finance-job-scan
 # One URL per line. Keep ~300 most recent.
 
+## 2026-11-12 (second run)
+(WebFetch unblocked this run after ~2.5-3 weeks -- see digest-2026-11-12-run2.md. New items below.)
+https://www.jobup.ch/en/jobs/detail/bd2bd2be-d114-4a0a-ac28-92fedbf14115/
+https://www.startupticker.ch/en/news/vvardis-plans-ipo-in-new-york
+https://www.startupticker.ch/en/news/dexterous-endoscopes-enters-biopole-investment-programme
+https://www.startupticker.ch/en/news/biotech-collaborations-to-accelerate-clinical-progress
+https://www.startupticker.ch/en/news/usd-5-1m-to-power-light-frame-s-next-gen-private-banking-technology-implementation
+https://www.startupticker.ch/en/news/ascend-clarifies-stock-market-plans
+https://www.startupticker.ch/en/news/aramco-ventures-invests-in-graphenergytech-s-seed-funding-round
+https://www.startupticker.ch/en/news/chf-150-000-to-enable-apolarion-protect-seeds-from-pathogens-with-plasma
+https://www.startupticker.ch/en/news/vale-biolabs-s-predictive-ai-models-to-support-r-d-in-brain-disorders
+https://www.startupticker.ch/en/news/mtip-launches-evergreen-fund-for-european-healthcare-technology
+
 ## 2026-11-12
 (no new items -- quiet run. WebFetch still ENOTFOUND on jobup.ch and core sources, ~18 days / 2.5 weeks into block. WebSearch-only coverage surfaced only items already logged above (Galderma CFO transition, Komax interim CFO, Distalmotion) or leads that did not survive verification: a reported "$105M Neurosterix Series B" (actually the stale 2024 $63M round) and a Qaptis CFO appointment sourced from an undated startupticker.ch roundup that bundles 2024-era appointments. Not re-notifying user -- same root cause already flagged repeatedly, status unchanged.)
 
