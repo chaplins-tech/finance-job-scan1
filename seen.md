@@ -1,6 +1,12 @@
 # Seen items log — daily-finance-job-scan
 # One URL per line. Keep ~300 most recent.
 
+## 2026-11-13
+https://www.startupticker.ch/en/news/105-million-to-transform-neuropsychiatric-care-by-fine-tuning-brain-signaling
+https://www.startupticker.ch/en/news/redalpine-closes-oversubscribed-250m-early-stage-fund
+https://www.startupticker.ch/en/news/four-vaud-scale-ups-honored-at-the-anniversary-gala
+https://www.startupticker.ch/en/news/inverto-earth-secures-usd-2-4-million-to-restore-coastlines
+
 ## 2026-11-12 (second run)
 (WebFetch unblocked this run after ~2.5-3 weeks -- see digest-2026-11-12-run2.md. New items below.)
 https://www.jobup.ch/en/jobs/detail/bd2bd2be-d114-4a0a-ac28-92fedbf14115/
