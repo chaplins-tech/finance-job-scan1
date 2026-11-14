@@ -1,6 +1,13 @@
 # Seen items log — daily-finance-job-scan
 # One URL per line. Keep ~300 most recent.
 
+## 2026-11-14
+https://www.startupticker.ch/en/news/two-swiss-ipos-in-one-day
+https://www.startupticker.ch/en/news/201-therapeutics-obtains-funding-to-advance-new-liver-cancer-therapy
+https://www.startupticker.ch/en/news/awards-for-western-switzerland-startups
+https://www.startupticker.ch/en/news/devia-agentic-ai-for-gxp-pharma-quality-management-arises-from-stealth
+https://www.michaelpage.ch/job-detail/directeur-finance-administration-80-100/ref/jn-092026-7106408
+
 ## 2026-11-13
 https://www.startupticker.ch/en/news/105-million-to-transform-neuropsychiatric-care-by-fine-tuning-brain-signaling
 https://www.startupticker.ch/en/news/redalpine-closes-oversubscribed-250m-early-stage-fund
