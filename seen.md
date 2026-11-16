@@ -1,6 +1,9 @@
 # Seen items log — daily-finance-job-scan
 # One URL per line. Keep ~300 most recent.
 
+## 2026-11-16
+(no new items — quiet run. WebFetch working normally this session; direct fetch of startupticker.ch's full news feed confirmed no new financing items since 11-14, and no senior finance openings cleared the seniority/region/freshness bar after checking jobup.ch, PageExecutive, Pictet, SonarSource, Nexthink, Sophia Genetics, Debiopharm, and major executive search firms.)
+
 ## 2026-11-14
 https://www.startupticker.ch/en/news/two-swiss-ipos-in-one-day
 https://www.startupticker.ch/en/news/201-therapeutics-obtains-funding-to-advance-new-liver-cancer-therapy
