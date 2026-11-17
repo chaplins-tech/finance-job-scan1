@@ -1,6 +1,9 @@
 # Seen items log — daily-finance-job-scan
 # One URL per line. Keep ~300 most recent.
 
+## 2026-11-17
+(no new items -- quiet run. WebFetch and WebSearch both working normally. Reviewed full startupticker.ch feed 03.11-16.11 article-by-article, jobup.ch Suisse romande search (82 results), PageExecutive/Michael Page Switzerland finance listings, LinkedIn/executive search firm searches, and Lake Geneva medtech/biotech company news -- nothing new cleared the seniority/region/freshness bar. All PageExecutive/Michael Page listings found were already logged in prior runs.)
+
 ## 2026-11-16
 (no new items — quiet run. WebFetch working normally this session; direct fetch of startupticker.ch's full news feed confirmed no new financing items since 11-14, and no senior finance openings cleared the seniority/region/freshness bar after checking jobup.ch, PageExecutive, Pictet, SonarSource, Nexthink, Sophia Genetics, Debiopharm, and major executive search firms.)
 
