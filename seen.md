@@ -1,6 +1,9 @@
 # Seen items log — daily-finance-job-scan
 # One URL per line. Keep ~300 most recent.
 
+## 2026-11-19 (second run)
+(no new items -- second run same day, re-checking after first run's digest. Direct fetch of michaelpage.ch CFO/Finance Director page confirmed same 2 Suisse Romande listings as before (jn-092026-7106408 Geneva, jn-072026-7062316 Vaud). Direct fetch of startupticker.ch news feed 12-19 Nov confirmed no new financing items beyond Smeetz (already logged in first run below) -- Primedea, 201 Therapeutics, two Swiss IPOs, Inverto Earth all already logged/out of region. Reviewed and excluded: Goldoak (Lucerne, cybersecurity, Höhle der Löwen, out of region), VEDIC LAB (Zug, consumer, out of sector), "Neurosterix USD105M Series B" (same stale/unconfirmed lead already flagged unreliable 2026-11-12). Not notifying user -- nothing new.)
+
 ## 2026-11-19
 (no new senior finance openings -- quiet run on jobs side. WebFetch and WebSearch both working normally. Checked jobup.ch/jobs.ch Suisse romande searches, Michael Page/PageExecutive Switzerland (same 4 listings as before, see below), Robert Half, Robert Walters, executive search firms (Odgers Berndtson, Egon Zehnder, Spencer Stuart, Amrop, Boyden), Sophia Genetics/Debiopharm/AC Immune/ADC Therapeutics careers pages, Nexthink/SonarSource/Logitech/Kudelski -- nothing new cleared seniority/region/freshness bar. One new funding item logged below.)
 https://www.startupticker.ch/en/news/smeetz-closes-chf-5-5-million-series-a2-and-turns-profitable
