@@ -1,6 +1,10 @@
 # Seen items log — daily-finance-job-scan
 # One URL per line. Keep ~300 most recent.
 
+## 2026-11-19
+(no new senior finance openings -- quiet run on jobs side. WebFetch and WebSearch both working normally. Checked jobup.ch/jobs.ch Suisse romande searches, Michael Page/PageExecutive Switzerland (same 4 listings as before, see below), Robert Half, Robert Walters, executive search firms (Odgers Berndtson, Egon Zehnder, Spencer Stuart, Amrop, Boyden), Sophia Genetics/Debiopharm/AC Immune/ADC Therapeutics careers pages, Nexthink/SonarSource/Logitech/Kudelski -- nothing new cleared seniority/region/freshness bar. One new funding item logged below.)
+https://www.startupticker.ch/en/news/smeetz-closes-chf-5-5-million-series-a2-and-turns-profitable
+
 ## 2026-11-18
 (no new items -- quiet run. WebFetch and WebSearch both working normally. Direct fetch of startupticker.ch full news feed (04.11-17.11) reviewed article-by-article -- all financing items already logged in prior runs, or out of region (Primedea/Zurich, Indivi-Cogitat/Basel). Checked jobup.ch, jobs.ch Geneva search (209 results, senior roles all German-speaking CH), Michael Page/PageExecutive (same 4 listings as before), Robert Walters, Robert Half, major executive search firms (Odgers Berndtson, Egon Zehnder, Spencer Stuart, Amrop, Boyden -- no published Romande CFO mandates), Debiopharm, Sophia Genetics, AC Immune careers pages -- no new senior finance openings or funding stories cleared the seniority/region/freshness bar. Noted dacadoo ag liquidation (Geneva digital health co, assets acquired by Israel's movement) as context only, not a hiring signal.)
 
