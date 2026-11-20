@@ -1,6 +1,10 @@
 # Seen items log — daily-finance-job-scan
 # One URL per line. Keep ~300 most recent.
 
+## 2026-11-20
+(no new senior finance openings -- quiet run on jobs side. WebFetch and WebSearch both working normally. Checked Michael Page/PageExecutive Switzerland (same standing Vaud/Geneva listings), jobup.ch/jobs.ch, executive search firms (Odgers Berndtson, Egon Zehnder, Spencer Stuart, Amrop, Boyden), healthtech/biotech careers pages (Sophia Genetics, AC Immune, ADC Therapeutics, Debiopharm, Onward Medical, Distalmotion), tech scale-ups (Nexthink, SonarSource, Kudelski, Bobst), and banking/insurance (Pictet, Lombard Odier, Vaudoise) -- nothing new cleared seniority/region/freshness bar. One new funding item logged below.)
+https://www.startupticker.ch/en/news/onward-therapeutics-closes-usd-28-million-series-b-financing
+
 ## 2026-11-19 (second run)
 (no new items -- second run same day, re-checking after first run's digest. Direct fetch of michaelpage.ch CFO/Finance Director page confirmed same 2 Suisse Romande listings as before (jn-092026-7106408 Geneva, jn-072026-7062316 Vaud). Direct fetch of startupticker.ch news feed 12-19 Nov confirmed no new financing items beyond Smeetz (already logged in first run below) -- Primedea, 201 Therapeutics, two Swiss IPOs, Inverto Earth all already logged/out of region. Reviewed and excluded: Goldoak (Lucerne, cybersecurity, Höhle der Löwen, out of region), VEDIC LAB (Zug, consumer, out of sector), "Neurosterix USD105M Series B" (same stale/unconfirmed lead already flagged unreliable 2026-11-12). Not notifying user -- nothing new.)
 
