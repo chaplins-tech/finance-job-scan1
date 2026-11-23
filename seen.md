@@ -1,6 +1,10 @@
 # Seen items log — daily-finance-job-scan
 # One URL per line. Keep ~300 most recent.
 
+## 2026-11-23
+(one new senior finance opening logged below -- Geneva Head of Finance, financial services sector. No new funding items -- all healthtech/biotech financing stories checked this run (Onward Therapeutics, 201 Therapeutics, Dexterous Endoscopes, Vale Biolabs, Light Frame, two Swiss IPOs, vVARDIS, Smeetz, Inverto Earth, Redalpine fund close, Neurosterix) were already logged 2026-11-12 through 2026-11-20. Checked PageExecutive Switzerland CFO/finance category, jobup.ch Suisse Romande search, Robert Half/Robert Walters/Hays, Odgers Berndtson/Egon Zehnder/Spencer Stuart/Amrop/Boyden, Sophia Genetics/AC Immune/Debiopharm careers, Pictet -- nothing else cleared the seniority/region/freshness bar. Flagged Multiwave (Geneva medtech, FDA clearance) and Pilatus Biosciences (Epalinges, clinical milestone) as "worth watching" in the digest, not logged as URLs here since they are not job/funding postings.)
+https://www.michaelpage.ch/fr/job-detail/head-finance-eng-fr-100-m-f/ref/jn-112026-7149834
+
 ## 2026-11-20
 (no new senior finance openings -- quiet run on jobs side. WebFetch and WebSearch both working normally. Checked Michael Page/PageExecutive Switzerland (same standing Vaud/Geneva listings), jobup.ch/jobs.ch, executive search firms (Odgers Berndtson, Egon Zehnder, Spencer Stuart, Amrop, Boyden), healthtech/biotech careers pages (Sophia Genetics, AC Immune, ADC Therapeutics, Debiopharm, Onward Medical, Distalmotion), tech scale-ups (Nexthink, SonarSource, Kudelski, Bobst), and banking/insurance (Pictet, Lombard Odier, Vaudoise) -- nothing new cleared seniority/region/freshness bar. One new funding item logged below.)
 https://www.startupticker.ch/en/news/onward-therapeutics-closes-usd-28-million-series-b-financing
