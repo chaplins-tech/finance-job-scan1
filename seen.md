@@ -1,6 +1,13 @@
 # Seen items log — daily-finance-job-scan
 # One URL per line. Keep ~300 most recent.
 
+## 2026-11-24
+(one new senior finance opening -- CFO, Sommet Education, Lausanne (Executive Committee level, education/hospitality sector, posted 20 Nov). Three new funding items logged below -- coprod ($6M pre-seed, Lausanne/EPFL robotics hardware), PolaSight (CHF150k Venture Kick, Pully VD, cancer tissue imaging healthtech), Surelio (CHF1M, Vaud/Trust Valley, AI security). Checked jobup.ch/jobs.ch, Michael Page/PageExecutive (michaelpage.ch gave HTTP 503 on direct fetch mid-run, relied on search-engine indexing), Finders SA Geneva listings, Sophia Genetics/AC Immune/Debiopharm/ADC Therapeutics careers pages, Odgers Berndtson/Egon Zehnder/Spencer Stuart/Amrop/Boyden (no indexed Swiss finance mandates), full startupticker.ch news feed 12-23 Nov -- other items reviewed and excluded as already logged or out of region/sector (Neurosterix $105M -- same stale/unconfirmed lead flagged repeatedly since 11-12; Multiwave FDA clearance and Pilatus Biosciences carried forward as "worth watching", not logged as URLs since not job/funding postings; Höhle der Löwen cyber-security, Indivi/Cogitat, VEDIC LAB, Pretty Good, TravelTribe, KlimUp, MYNE Homes/beyoul, Ebooqueen/GENILEM all out of region or sector).)
+https://www.jobs.ch/en/vacancies/detail/4294b86d-c141-4039-aef3-93779575ca2f/
+https://startupticker.ch/en/news/6-million-to-make-robot-hardware-as-easy-to-build-as-software
+https://startupticker.ch/en/news/fresh-funding-to-advance-polasight-s-cancer-tissue-imaging-platform
+https://startupticker.ch/en/news/surelio-raises-chf-1m-to-secure-ai-agents
+
 ## 2026-11-23
 (one new senior finance opening logged below -- Geneva Head of Finance, financial services sector. No new funding items -- all healthtech/biotech financing stories checked this run (Onward Therapeutics, 201 Therapeutics, Dexterous Endoscopes, Vale Biolabs, Light Frame, two Swiss IPOs, vVARDIS, Smeetz, Inverto Earth, Redalpine fund close, Neurosterix) were already logged 2026-11-12 through 2026-11-20. Checked PageExecutive Switzerland CFO/finance category, jobup.ch Suisse Romande search, Robert Half/Robert Walters/Hays, Odgers Berndtson/Egon Zehnder/Spencer Stuart/Amrop/Boyden, Sophia Genetics/AC Immune/Debiopharm careers, Pictet -- nothing else cleared the seniority/region/freshness bar. Flagged Multiwave (Geneva medtech, FDA clearance) and Pilatus Biosciences (Epalinges, clinical milestone) as "worth watching" in the digest, not logged as URLs here since they are not job/funding postings.)
 https://www.michaelpage.ch/fr/job-detail/head-finance-eng-fr-100-m-f/ref/jn-112026-7149834
