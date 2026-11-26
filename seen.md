@@ -230,3 +230,10 @@ https://app.fundz.net/fundings/sonexos-sa-funding-round-series-a-a41a57
 
 ## 2026-11-04
 (no new items -- quiet run, ~16th day of this streak. CONFIRMED: WebFetch ENOTFOUND still blocks jobup.ch for this session (re-tested today), unchanged since 10-20. WebSearch-only coverage surfaced only items already logged above (Michael Page jn-072026-7062316/Corintis CFO, Komax CFO departure) or stale/undated postings (Careerplus CFO Lausanne, Robert Half interim CFO Lausanne, THE Machines Yvonand CFO, various Michael Page/jobup Geneva Finance Director/Deputy CFO/Head of Finance listings, LHH/eFinancialCareers Geneva Head of Finance -- none confirmably posted in the last 7 days). No new funding items (MindMaze, Neurosoft Bioelectronics, Alithea Genomics all stale, May/March 2026). Not re-notifying user -- same root cause already flagged 10-26/10-27/10-28, status unchanged.)
+
+## 2026-11-09 through 2026-11-25 (backfill note)
+(seen.md was not updated during this window even though digests were produced and committed each day; the digests themselves — digests/digest-2026-11-09.md through digests/digest-2026-11-25*.md — are the authoritative record of what was reported/excluded in that period. One URL referenced in a digest but missing from this log has been backfilled below.)
+https://www.jobup.ch/en/jobs/detail/c713389f-0de8-40f7-b1db-eb5097283f8d/
+
+## 2026-11-26 (second run)
+(no new items — quiet run. Re-checked startupticker.ch full feed through 26 Nov, jobup.ch Suisse Romande finance board, Michael Page Switzerland CFO/Finance Director category, PageExecutive, and major executive search firms directly; everything surfacing was already logged/excluded in the morning's 2026-11-26 digest. Two new-to-us items were checked and excluded for freshness/seniority: Michael Page "Finance Director - Finance Business Partner" Zurich/London jn-112026-7146093 (10 days old, asset management, outside Romandie/healthtech priority), and Michael Page "Directeur financier" Lausanne-region jn-052026-7026984 (Finance Manager specialisation, below Head-of bar).)
